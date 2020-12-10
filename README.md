@@ -3,7 +3,7 @@
 <!--
 **JUAUMDEV89/JUAUMDEV89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Studying 👨🏻‍💻 fullStack / backend and frontend development with top technologies such as NodeJS, ReactJS and React Native with Javascript and Typescript 🚀🚀 
+### Studying 👨🏻‍💻 fullStack / backend and frontend development with top technologies such as NodeJS, ReactJS and React Native with Javascript and Typescript 🚀🚀 
 
 Here are some ideas to get you started:
 
