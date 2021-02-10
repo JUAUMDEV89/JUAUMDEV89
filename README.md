@@ -1,6 +1,6 @@
 <h1>João Luis</h1>
 
-### Hello Developer 👋😄
+### Hello, A little bit about me 👋😄
 
 <p>i'm joão luis. i'm a fullstack developer 💻</p>
 
