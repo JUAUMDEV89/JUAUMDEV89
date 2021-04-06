@@ -10,4 +10,9 @@
   <li>💛 Games, Movies, Series, Soccer</li>
 </ul>
 
+### Find me elsewhere 🌎
+
+📸 [Instagram](https://www.instagram.com/jluisr89/) <br>
+💼 [LinkedIn](www.linkedin.com/in/joaoluisdev) <br>
+
 
