@@ -15,4 +15,11 @@
 📸 [Instagram](https://www.instagram.com/jluisr89/) <br>
 💼 [LinkedIn](www.linkedin.com/in/joaoluisdev) <br>
 
+### My Statistics �
+
+<img align="left" alt="Esfoliante's Github Stats" src="https://github-readme-stats.vercel.app/api?username=JUAUMDEV89&show_icons=true&hide_border=false&count_private=true" />
+
+
+<img  style="margin-top: 90px" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JUAUMDEV89&layout=compact" /><br/>
+
 
