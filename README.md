@@ -2,7 +2,7 @@
 
 ### Hello, A little bit about me 👋😄
 
-<p>i'm joão luis. i'm a fullstack developer 💻</p>
+<p>i'm joão luis. i'm a front-end developer 💻</p>
 
 <ul>
   <li>😍 NextJs, TypeScript</li>
@@ -12,7 +12,7 @@
 
 ### Find me elsewhere 🌎
 
-📸 [Instagram](https://www.instagram.com/jluisr89/) <br>
+📸 [Instagram](https://www.instagram.com/joaoluis.ts/) <br>
 💼 [LinkedIn](www.linkedin.com/in/joaoluisdev) <br>
 
 ### My Statistics �
